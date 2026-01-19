@@ -1,4 +1,4 @@
-### RelightVid
+### ReCamMaster
 生成 Recamera 结果：
 输入固定取前 81 帧（前 81 个相机位姿）、832x480 分辨率。
 如输入长度不足使用 `change_camera_framecount.py` 和 `change_video_framecount.py` 进行插帧：
